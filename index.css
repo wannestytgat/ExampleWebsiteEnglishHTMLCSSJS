@@ -5,9 +5,14 @@
   max-width:800px;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-size: 30px;
+<<<<<<< HEAD
   text-align: center;
 }
 
 p{background-color:rgb(251, 235, 60);}
 
 #first{background-color: red;}
+=======
+  text-align: right;
+}
+>>>>>>> 35d22b497a1fd28e8c251eac13729d2103aebe28
